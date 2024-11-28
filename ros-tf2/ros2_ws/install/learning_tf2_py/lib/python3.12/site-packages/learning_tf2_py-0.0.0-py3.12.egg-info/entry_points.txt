@@ -1,0 +1,2 @@
+[console_scripts]
+turtle_tf2_broadcaster = learning_tf2_py.turtle_tf2_broadcaster:main
